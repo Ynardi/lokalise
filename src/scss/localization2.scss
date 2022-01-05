@@ -1,0 +1,43 @@
+.localization2{
+  padding: 119px 0 161px;
+  background: #FF9C7D;
+  .localization2__title{
+    font-family: Graphik LC TT,sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 65px;
+    line-height: 75px;
+    text-align: center;
+    color: #000000;
+  }
+  .localization2__subtitle{
+    margin: 29px 0 54px;
+    font-family: Graphik LC TT,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color: #000000;
+  }
+  .box-Btn{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    .tif__Btn{
+      width: 160px;
+      height: 60px;
+      background: #000000;
+      font-family: Graphik LC TT,sans-serif;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 17px;
+      line-height: 60px;
+      text-align: center;
+      color: #FFFFFF;
+      border: none;
+      
+    }
+  }
+  
+}

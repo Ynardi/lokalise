@@ -1,0 +1,43 @@
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+  max-width: 1290px;
+  margin: 0 auto;
+}
+.startnow{
+  font-family: Graphik LC TT,sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+  color: #000000;
+  text-decoration: none;
+}
+button{
+  cursor: pointer;
+}
+li{
+  list-style: none;
+}
+
+
+
+
+
+@import "header";
+@import "home";
+@import "../lbr/companies";
+@import "about";
+@import "localization";
+@import "productivity";
+@import "review";
+@import "translation";
+@import "integrate";
+@import "localization2";
+@import "footer";

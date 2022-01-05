@@ -1,0 +1,35 @@
+.review {
+  padding: 53px 75px 105px;
+  background: #C9E8F2;
+  .block{
+    position: relative;
+    .text{
+
+      .review-text{
+        font-family: Graphik LC TT,sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 30px;
+        line-height: 40px;
+        color: #000000;
+        margin-bottom: 23px;
+        width: 895px;
+        margin-top: 10px;
+      }
+      .user-name{
+        font-family: Roboto,sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 25px;
+        color: #000000;
+        margin-bottom: 7px;
+      }
+    }
+    .box-photo{
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+  }
+}

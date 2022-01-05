@@ -1,0 +1,48 @@
+.integrate{
+  padding: 165px 0 162px;
+  //background: #FFFFff url("../img/integrate/bg.png") top 400px left 153px no-repeat;
+  .integrate__title{
+    font-family: Graphik LC TT,sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 65px;
+    line-height: 75px;
+    text-align: center;
+    color: #000000;
+  }
+  .integrate__subtitle{
+    font-family: Graphik LC TT,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 25px;
+  }
+  .integrate__img{
+    margin: 0 153px 32px;
+  }
+  .box-Btn{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    .sai{
+      width: 193px;
+      height: 60px;
+      background: #FF6336;
+      padding: 0 20px;
+      font-family: Graphik LC TT,sans-serif;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 16px;
+      line-height: 60px;
+      text-align: center;
+      color: #FFFFFF;
+      border: none;
+      justify-content: space-around;
+
+    }
+  }
+
+}

@@ -1,0 +1,62 @@
+.productivity{
+  padding: 154px 0 217px;
+  .productivity__title{
+    font-family: Graphik LC TT,sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 60px;
+    color: #000000;
+    margin-bottom: 25px;
+  }
+  .row{
+    display: flex;
+    flex-direction: row;
+    //flex-wrap: wrap;
+    justify-content: space-between;
+    .col-3{
+      padding: 50px 0 0;
+      .box{
+        width: 440px;
+        .box-img{
+          height: 201px;
+        }
+        .title{
+          font-family: Graphik LC TT,sans-serif;
+          font-style: normal;
+          font-weight: 600;
+          font-size: 30px;
+          line-height: 40px;
+          color: #000000;
+          margin-top: 49px;
+        }
+        .subtitle{
+          font-family: Graphik LC TT,sans-serif;
+          font-style: normal;
+          font-weight: normal;
+          font-size: 20px;
+          line-height: 30px;
+          color: #000000;
+          margin: 34px 0 26px;
+          a{
+            font-family: Graphik LC TT,sans-serif;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 20px;
+            line-height: 30px;
+            color: #000000;
+          }
+        }
+        .learnmore{
+          font-family: Graphik LC TT,sans-serif;
+          font-style: normal;
+          font-weight: normal;
+          font-size: 20px;
+          line-height: 30px;
+          text-decoration-line: underline;
+          color: #000000;
+        }
+      }
+    }
+  }
+}

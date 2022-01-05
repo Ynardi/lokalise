@@ -1,0 +1,119 @@
+.footer{
+  padding: 92px 0 48px;
+  .block-top{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: 1px solid black;
+    .box-top{
+      padding-bottom: 95px;
+      .caseS{
+        width: 370px;
+        height: 587px;
+        .title{
+          font-family: Graphik LC TT,sans-serif;
+          font-style: normal;
+          font-weight: 600;
+          font-size: 40px;
+          line-height: 50px;
+          color: #000000;
+          margin-bottom: 28px;
+        }
+        .logo{
+          margin: 31px 0 11px;
+        }
+        .text{
+          font-family: Graphik LC TT,sans-serif;
+          font-style: normal;
+          font-weight: normal;
+          font-size: 20px;
+          line-height: 30px;
+          color: #000000;
+          margin-bottom: 15px;
+        }
+        .rm{
+          font-family: Graphik LC TT,sans-serif;
+          font-style: normal;
+          font-weight: 600;
+          font-size: 20px;
+          line-height: 30px;
+          color: #000000;
+          text-decoration: none;
+          margin-bottom: 95px;
+        }
+      }
+      .row{
+        position: absolute;
+        top: 5px;
+        right: 0;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 850px;
+        height: 286px;
+        .col-3{
+          .title-link{
+            font-family: Graphik LC TT,sans-serif;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 20px;
+            line-height: 25px;
+            color: #000000;
+            margin-bottom: 6px;
+            margin-top: 0;
+          }
+          li{
+            margin-top: 15px;
+            .foot-link{
+               font-family: Graphik LC TT,sans-serif;
+               font-style: normal;
+               font-weight: normal;
+               font-size: 15px;
+               line-height: 15px;
+               color: #000000;
+               text-decoration: none;
+             }
+          }
+        }
+      }
+    }
+  }
+  .block-bottom{
+    height: 30px;
+    width: 100%;
+    display: flex;
+    position: relative;
+    margin-top: 48px;
+    .text{
+      margin-left: 14px;
+      font-family: Graphik LC TT,sans-serif;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 12px;
+      line-height: 15px;
+      color: #000000;
+    }
+    .text-r{
+      position: absolute;
+      right: 112px;
+      font-family: Graphik LC TT,sans-serif;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 12px;
+      line-height: 15px;
+      color: #000000;
+    }
+    span{
+      right: 76px;
+      top: 15px;
+      position: absolute;
+      font-family: Graphik LC TT,sans-serif;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 12px;
+      line-height: 15px;
+      color: #000000;
+    }
+   }
+}
